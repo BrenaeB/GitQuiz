@@ -1,9 +1,9 @@
-LINE BREAK
-name: Task Creation Template
-about: Describe this issue template's purpose here.
-title: ''
+
+name: Eric
+about: Three developers are creating an application for a case study that will print if a user is eligible to vote or not, based on their age.   
+title: 'Case Study Feature-A'
 labels: ''
-assignees: ''
+assignees: 'Eric, Adam, Lucy'
 
 LINE BREAK
 
